@@ -1,0 +1,81 @@
+.main .header{
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+}
+
+.main .header .photo{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.main .header .title{
+    text-align: center;
+    font-family: 'naue-machina-regular';
+}
+
+.main .header .informations {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.main .header .informations p {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: .5rem;
+    font-size: 1.125rem;
+}
+
+.main .header .informations p::before{
+    content: '';
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: .5rem;
+}
+
+.main .header .informations .user::before{
+    background-image: url('/assets/img/icons/groupuser.svg');
+}
+
+.main .header .informations .location::before{
+    background-image: url('/assets/img/icons/location.svg');
+}
+
+.main .header .informations .phoneNumber::before{
+    background-image: url('/assets/img/icons/whatsapp.svg');
+}
+
+.main .header .informations .email::before{
+    background-image: url('/assets/img/icons/email.svg');
+}
+
+
+@media only screen and (min-width: 768px){
+    .main .header{
+        display: grid;
+        grid-template-areas: 
+        "photo title"
+        "photo informations"
+        ; 
+    }
+
+    .main .header .photo{
+        grid-area: photo;
+        margin: 0 auto;
+    }
+    .main .header .title{
+        grid-area: title;
+        text-align: start;
+        max-width: 300px;
+    }
+    .main .header .informations{
+        grid-area: informations;
+    }
+}
