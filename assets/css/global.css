@@ -32,7 +32,7 @@ a:hover{
 
 .main::before {
     content: '';
-    background-image: url('/assets/img/backgound.svg');
+    background-image: url('../img/backgound.svg');
     background-repeat: no-repeat;
     background-size: contain;
     width: 140vw;
@@ -46,7 +46,7 @@ a:hover{
 
 .main::after {
     content: '';
-    background-image: url('/assets/img/backgound.svg');
+    background-image: url('../img/backgound.svg');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;

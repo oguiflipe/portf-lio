@@ -41,19 +41,19 @@
 }
 
 .main .header .informations .user::before{
-    background-image: url('/assets/img/icons/groupuser.svg');
+    background-image: url('../img/icons/groupuser.svg');
 }
 
 .main .header .informations .location::before{
-    background-image: url('/assets/img/icons/location.svg');
+    background-image: url('../img/icons/location.svg');
 }
 
 .main .header .informations .phoneNumber::before{
-    background-image: url('/assets/img/icons/whatsapp.svg');
+    background-image: url('../img/icons/whatsapp.svg');
 }
 
 .main .header .informations .email::before{
-    background-image: url('/assets/img/icons/email.svg');
+    background-image: url('../img/icons/email.svg');
 }
 
 
