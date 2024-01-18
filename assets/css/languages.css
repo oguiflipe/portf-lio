@@ -24,7 +24,7 @@
     height: .9rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url("assets/img/icons/check.svg");
+    background-image: url("/assets/img/icons/check.svg");
     transition: .30s;
     margin-right: .5rem;
 }
