@@ -6,7 +6,7 @@
 /*Declarando a fonte externa*/
 @font-face {
     font-family: 'naue-machina-regular';
-    src: url(/assets/fonts/reue-machina-regular.otf);
+    src: url("../fonts/reue-machina-regular.otf");
 }
 
 .main{ 
