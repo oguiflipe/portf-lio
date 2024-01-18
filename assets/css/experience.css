@@ -23,7 +23,7 @@
     height: .9rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url("/assets/img/icons/date.svg");
+    background-image: url("assets/img/icons/date.svg");
     transition: .30s;
     margin-right: .5rem;
 }
