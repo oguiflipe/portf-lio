@@ -9,23 +9,23 @@
       "hardSkills": [
         {
           "name": "Nodejs",
-          "logo": "https://raw.githubusercontent.com/oguiflipe/portf-lio/main/data/img/nodejs.png?token=GHSAT0AAAAAACMXP7EZ37AVOWCRYT2SX2HCZNJMLEA"
+          "logo": "https://raw.githubusercontent.com/oguiflipe/portf-lio/main/data/img/nodejs.png?token=GHSAT0AAAAAACMXP7EZGEEDMXKMMUGF6IXEZNJN73Q"
         },
         {
           "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/oguiflipe/portf-lio/main/data/img/javascript.png?token=GHSAT0AAAAAACMXP7EZYF7G3APCCKJXUDE2ZNJMK6A"
+          "logo": "https://raw.githubusercontent.com/oguiflipe/portf-lio/main/data/img/javascript.png?token=GHSAT0AAAAAACMXP7EYAXYGYCOEVRJHFUEOZNJN6NQ"
         },
         {
           "name": "GitHub",
-          "logo": "https://raw.githubusercontent.com/oguiflipe/portf-lio/main/data/img/github.png?token=GHSAT0AAAAAACMXP7EY6KESJF7MRMXEEAIUZNJMKXA"
+          "logo": "https://raw.githubusercontent.com/oguiflipe/portf-lio/main/data/img/github.png?token=GHSAT0AAAAAACMXP7EZ2LOSSTKOVFHI5JJCZNJN6FA"
         },
         {
           "name": "React",
-          "logo": "https://raw.githubusercontent.com/oguiflipe/portf-lio/main/data/img/react.png?token=GHSAT0AAAAAACMXP7EZFAO3L6FOBP63WNR2ZNJMLJQ"
+          "logo": "https://raw.githubusercontent.com/oguiflipe/portf-lio/main/data/img/react.png?token=GHSAT0AAAAAACMXP7EYPTK46T2ZM4OUBFU4ZNJOAIA"
         },
         {
           "name": "Android",
-          "logo": "https://raw.githubusercontent.com/oguiflipe/portf-lio/main/data/img/android.png?token=GHSAT0AAAAAACMXP7EZUJYDQ6QAO4HKXYLAZNJMKKQ"
+          "logo": "https://raw.githubusercontent.com/oguiflipe/portf-lio/main/data/img/android.png?token=GHSAT0AAAAAACMXP7EYP4OLL54V3ZA5TB3CZNJN54A"
         }
       ],
       "softSkills": [
@@ -45,30 +45,35 @@
     "portfolio": [
       {
         "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "url": "https://github.com/oguiflipe/pokedex",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Aplicativo de Lista de Mercado",
+        "url": "https://github.com/oguiflipe/lista-mercado",
+        "github": true
+      },
+      {
+        "name": "Aplicativo Gerador de senha - Feito em JavaScript",
+        "url": "https://github.com/oguiflipe/geradordesenhas",
         "github": true
       }
     ],
     "professionalExperience": [
       {
-        "name": "Arquiteto de software / S3 BANK",
-        "period": "2022 - até o momento",
+        "name": "Analista de desenvolvimento de sistemas / Engineering do Brasil",
+        "period": "2021 - até o momento",
         "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
       },
       {
-        "name": "Software Engineering Lead / DIO",
-        "period": "2021 - 2022",
-        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+        "name": "Tecnico em manutenção de equipamentos e suporte ao usuário / Advanceds Labs",
+        "period": "2019 - 2019",
+        "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com o crescimento da empresa."
       },
       {
-        "name": "CEO / Brain Machine",
-        "period": "2016 - 2021",
-        "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+        "name": "Help Desk / Cadis",
+        "period": "2017 - 2019",
+        "description": "Realizando suporte tecnico e apoio aos usuários de informática."
       }
     ]
   }
