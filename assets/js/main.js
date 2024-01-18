@@ -22,12 +22,15 @@ function updateProfileInfo(profileData){
     email.innerText = profileData.email
     email.href = `maiito:${profileData.email}`
 
+}
 
-
-
-
-
-
+function updateHardSkills(profileData){
+   const hardSkills = document.getElementById('profile.skills.hardSkills');
+   hardSkills.innerHTML = profileData.skills.hardSkills
+   .map(skill => `
+    <li>
+        <img src="${skill.logo}" alt="${skill.name}" title="${skill.name}">
+    </li>`).join('');
 
 }
 
@@ -36,5 +39,5 @@ function updateProfileInfo(profileData){
 ( async  () => {
     const profileData = await fetchProfileData()
     updateProfileInfo(profileData)
-    console.log(profileData);
+    updateHardSkills(profileData);
 })();
