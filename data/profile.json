@@ -9,7 +9,7 @@
       "hardSkills": [
         {
           "name": "Nodejs",
-          "logo": "https://github.com/oguiflipe/portf-lio/blob/main/data/img/nodejs.png"
+          "logo": "https://raw.githubusercontent.com/oguiflipe/portf-lio/main/data/img/nodejs.png?token=GHSAT0AAAAAACMXP7EZGEEDMXKMMUGF6IXEZNJN73Q"
         },
         {
           "name": "JavaScript",
@@ -21,7 +21,7 @@
         },
         {
           "name": "React",
-          "logo": "https://raw.githubusercontent.com/oguiflipe/portf-lio/main/data/img/react.png?token=GHSAT0AAAAAACMXP7EYC5VMS4CQ6HZVVCH4ZNJNETQ"
+          "logo": "https://raw.githubusercontent.com/oguiflipe/portf-lio/main/data/img/react.png?token=GHSAT0AAAAAACMXP7EYPTK46T2ZM4OUBFU4ZNJOAIA"
         },
         {
           "name": "Android",
