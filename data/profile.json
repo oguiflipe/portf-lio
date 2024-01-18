@@ -45,12 +45,17 @@
     "portfolio": [
       {
         "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-        "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+        "url": "https://github.com/oguiflipe/pokedex",
         "github": true
       },
       {
-        "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-        "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+        "name": "Aplicativo de Lista de Mercado",
+        "url": "https://github.com/oguiflipe/lista-mercado",
+        "github": true
+      },
+      {
+        "name": "Aplicativo Gerador de senha - Feito em JavaScript",
+        "url": "https://github.com/oguiflipe/geradordesenhas",
         "github": true
       }
     ],
